@@ -1,6 +1,6 @@
 ## To repozytorium zawiera dokumentację również w języku polskim, która znajduje się poniżej.
 
-# EN / REST API – Pokémon Data Fetching System
+# EN / WebModules
 
 This project is a collection of small web applications organized within a single repository. Each module represents a standalone system with its own logic, styling, and PHP backend.
 
@@ -111,7 +111,7 @@ The project follows a modular PHP architecture, organized into independently fun
 
 **────────────────────────**
 
-# PL / REST API – System Pobierania i Obsługi Małych Aplikacji Webowych
+# PL / WebModules
 
 To repozytorium zawiera zestaw niewielkich aplikacji webowych, zorganizowanych w jednym projekcie. Każdy moduł działa jako oddzielna aplikacja posiadająca własną logikę, stylowanie i backend PHP.
 
